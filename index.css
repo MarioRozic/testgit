@@ -1,0 +1,16 @@
+body {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #ed0dd9;
+}
+
+h1 {
+  font-family: monospace;
+  font-size: 50px;
+  font-weight: bold;
+  color: #c1c6fc;
+  text-transform: uppercase;
+}
